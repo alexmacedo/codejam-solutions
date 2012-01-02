@@ -2,7 +2,7 @@
 
 # Qualification Round Africa 2010
 # Problem B. Reverse Words
-# url: http://code.google.com/codejam/contest/dashboard?c=351101
+# url: http://code.google.com/codejam/contest/dashboard?c=351101#s=p1
 
 if __name__ == "__main__":
     n = input()

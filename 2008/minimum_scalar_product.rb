@@ -2,7 +2,7 @@
 
 # Round 1A 2008
 # Problem A. Minimum Scalar Product
-# url: http://code.google.com/codejam/contest/dashboard?c=32016
+# url: http://code.google.com/codejam/contest/dashboard?c=32016#s=p0
 
 if __FILE__ == $0
   testcases = gets.chomp.to_i
